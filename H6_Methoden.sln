@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zork", "Zork\Zork.csproj", "{B2A1D9C1-DB8C-428B-8639-7A0FA31DB528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Basics\Basics.csproj", "{ADCB9773-DC31-4C43-9A47-2C1475508671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{8297A88F-D273-41ED-B71B-E3D4681BE1D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGenerator", "PasswordGenerator\PasswordGenerator.csproj", "{AA071C45-E988-4DBD-A436-139FF685C7A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A1D9C1-DB8C-428B-8639-7A0FA31DB528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A1D9C1-DB8C-428B-8639-7A0FA31DB528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A1D9C1-DB8C-428B-8639-7A0FA31DB528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A1D9C1-DB8C-428B-8639-7A0FA31DB528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCB9773-DC31-4C43-9A47-2C1475508671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCB9773-DC31-4C43-9A47-2C1475508671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCB9773-DC31-4C43-9A47-2C1475508671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCB9773-DC31-4C43-9A47-2C1475508671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8297A88F-D273-41ED-B71B-E3D4681BE1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8297A88F-D273-41ED-B71B-E3D4681BE1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8297A88F-D273-41ED-B71B-E3D4681BE1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8297A88F-D273-41ED-B71B-E3D4681BE1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA071C45-E988-4DBD-A436-139FF685C7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA071C45-E988-4DBD-A436-139FF685C7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA071C45-E988-4DBD-A436-139FF685C7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA071C45-E988-4DBD-A436-139FF685C7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAFE27E7-5193-48FD-A4FF-6D178ABBBA70}
+	EndGlobalSection
+EndGlobal
